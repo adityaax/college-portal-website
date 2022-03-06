@@ -1,0 +1,96 @@
+body  
+{  
+    /* margin: 0;   */
+    padding: 0;  
+    background-color:#6abadeba;  
+    font-family: 'Comic Sans MS'; 
+    margin-left: 80; 
+}  
+
+#logo{
+    display: block;
+    margin-left: 600;
+    margin-bottom: 0;
+}
+
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: #23797c;  
+        border-radius: none ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color: #000000;  
+    padding: 20px;  
+    text-decoration: solid;
+    font-family: "Comic Sans MS", Helvetica, sans-serif;
+    background-color: rgb(108, 170, 233);
+    width: 256;
+    margin-left: 570;
+}  
+label{  
+    color: #08ffd1;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+    
+      
+}  
+
+
+#log {
+    padding-top: 6;
+}
+
+#log button{  
+    width: 100px;  
+    height: 30px;    
+    border-radius: 5px;  
+    font-family: 'Comic Sans MS';
+    padding-left: 0px;  
+    color: blue;  
+    text-decoration: none;
+    padding: 1;  
+    
+    /* padding: 4; */
+}  
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+/* #lb a{  
+    width: 300px;  
+    height: 30px;    
+    border-radius: 30;  
+    padding-left: 7px;  
+    color: blue;  
+    text-decoration: none;
+} */
+
+button{  
+    width: 200px;  
+    height: 30px;    
+    border-radius: 5px;  
+    font-family: 'Comic Sans MS';
+    padding-left: 0px;  
+    color: blue;  
+    text-decoration: none;
+    padding: 1;  
+}
